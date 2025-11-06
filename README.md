@@ -36,4 +36,7 @@ Vanilla JavaScript
 CSS3
 Google Fonts
 ## 💡 Fikir
-Bu proje, sanatsal ve duygusal bir etki yaratmak amacıyla hazırlanmıştır.
+Bu proje, Atatürk’ü anmak ve 10 Kasım’ı hatırlamak amacıyla hazırlanmıştır.
+“Beni hatırlayınız.” metni, 10. Yıl Nutku’nda Atatürk’ün üstünü çizdiği, söylemekten vazgeçtiği sözden ilham alınarak seçilmiştir.
+Siluet maskesi, yazının yalnızca belirli bir çerçevede görünmesini sağlayarak, hatırlama ve saygı temasını görsel olarak vurgular.
+Animasyon, sessiz ama akıcı bir anma deneyimi sunmayı amaçlar.
