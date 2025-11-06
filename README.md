@@ -1,4 +1,4 @@
-## 🇹🇷 Beni Hatırlayınız — Siluet Mask
+## 🇹🇷 Atatürk Silüet — Siluet Mask
 Bu proje, HTML5 Canvas, JavaScript ve CSS kullanılarak hazırlanmış animasyonlu bir siluet efektidir.
 
 Bir siluet görseli (örneğin siluet.png) üzerine, “Beni hatırlayınız.” metni akıcı bir şekilde akarak yalnızca siluet içinde görünür.
